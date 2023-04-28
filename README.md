@@ -1,2 +1,2 @@
 # golanglearn
-Used for learning Golang and my ppersonal test labs
+Used for learning Golang and my personal test labs
